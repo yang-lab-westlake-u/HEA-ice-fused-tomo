@@ -1,6 +1,6 @@
 Description
 
-We initially employ the methodology proposed by Jonathan et al. [1] to achieve two-dimensional (2D) fusion, integrating the aligned and denoised EDS_HAADF data with EDS_mapping. Subsequently, we apply the approach outlined in [2] to perform three-dimensional (3D) fused multi-modal reconstruction, wherein STEM_HAADF projections are systematically fused with the EDS_mapping derived from the preceding 2D fusion process.
+We initially employed the methodology proposed by Jonathan et al. [1] to achieve two-dimensional (2D) fusion, integrating the aligned and denoised EDS_HAADF data with EDS_mapping. Subsequently, we applied the approach outlined in [2] to perform three-dimensional (3D) fused multi-modal reconstruction, wherein STEM_HAADF projections were systematically fused with the EDS_mapping derived from the preceding 2D fusion process.
 
 References
 
