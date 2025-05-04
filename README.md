@@ -5,7 +5,8 @@
 1. [Overview](#1-overview)  
 2. [System Requirements](#2-system-requirements)  
 3. [Installation Guide](#3-installation-guide)  
-4. [Repository Contents](#4-repository-contents)
+4. [Source Codes](#4-source-codes)
+5. [Learn More](#5-learn-more)
 
 
 ---
@@ -45,7 +46,7 @@ We use the supercomputer's GPU for computation (256G DRAM, 16-core CPU and 1 GPU
 The pipelines can be found from the link: https://github.com/jtschwar/tomo_TV from the following reference:  
 [1] J. Schwartz, Z.W. Di, Y. Jiang, et al. "Imaging 3D Chemistry at 1 nm Resolution with Fused Multi-Modal Electron Tomography", Nature Communications, 15(1), 3555 (2024).
 
-## 4. Repository Contents
+## 4. Source Codes
 
 ### 4.1 Demonstration codes  
 Foler: [_demo](./_demo)
@@ -66,3 +67,7 @@ Run source data/3D_fusion/input/Fusion_3D_diff_angles.py to generate the output 
 
 Run source data/3D_fusion/reconstruction_volumes/step1_Chem_total.m and 3D_fusion/reconstruction_volumes/step2_Mask.m files to apply a mask to the reconstructed 3D chemical distributions in fusion_recon.h5 and obtain the final chemical tomograms for different elements.
 
+## 5. Learn More
+For more information about the source data, please visit:
+
+- [Yanglab@Westlake_University](https://em.lab.westlake.edu.cn/info/1006/1293.htm)
