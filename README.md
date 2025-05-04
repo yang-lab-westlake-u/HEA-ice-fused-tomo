@@ -60,6 +60,8 @@ Run source data/2D_fusion/output/h5_merge.py to merge the projections of the sam
 
 ### 4.4 reconstructed 3D chemical distributions  
 Run source data/3D_fusion/input/transposed.m to transpose and merge projections obtained from 4.2 for subsequent 3D multi-modal reconstruction and visualization.  
+
 Run source data/3D_fusion/input/Fusion_3D_diff_angles.py to generate the output file fusion_recon.h5, which contains all the reconstructed 3D chemical distributions.  
+
 Run source data/3D_fusion/reconstruction_volumes/step1_Chem_total.m and 3D_fusion/reconstruction_volumes/step2_Mask.m files to apply a mask to the reconstructed 3D chemical distributions in fusion_recon.h5 and obtain the final chemical tomograms for different elements.
 
