@@ -1,10 +1,11 @@
 # Making high-entropy alloy nanoparticles, aerogels and coatings by ice
 
 ## Contents
-1. [Overview](#overview)
-2. [System Requirements](#system-requirements)
-3. [Installation Guide](#installation-guide)
-4. [Repository Contents](#repository-contents)
+
+1. [Overview](#1-overview)  
+2. [System Requirements](#2-system-requirements)  
+3. [Installation Guide](#3-installation-guide)  
+4. [Repository Contents](#4-repository-contents)
 
 
 ---
