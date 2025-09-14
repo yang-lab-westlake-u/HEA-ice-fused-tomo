@@ -49,12 +49,12 @@ The pipelines can be found from the link: https://github.com/jtschwar/tomo_TV fr
 ## 4. Source Codes
 
 ### 4.1 Demonstration codes  
-Foler: [_demo](./_demo)
+Folder: [_demo](./_demo)
 
 Run source data/_demo/Fusion_3D_diff_angles_CoMnO_mat.py to test the demonstration sample of fused tomography data on CoMnO nanoparticles.
 
 ### 4.2 HEA coated nanowire codes
-Folers: [2D_fusion](./2D_fusion) and [3D_fusion](./3D_fusion)
+Folders: [2D_fusion](./2D_fusion) and [3D_fusion](./3D_fusion)
 
 ### 4.3 Reconstructed 2D chemical distributions  
 Run source data/2D_fusion/Au_NW_new.py to obtain the reconstructed 2D chemical distributions at different projection angles.  
