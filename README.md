@@ -1,4 +1,4 @@
-# Making high-entropy alloy nanoparticles, aerogels and coatings by ice
+# Synthesising high-entropy alloy nanoparticles, aerogels and coatings using a bilayer ice recrystallization method
 
 ## Contents
 
@@ -54,18 +54,10 @@ Folder: [_demo](./_demo)
 Run source data/_demo/Fusion_3D_diff_angles_CoMnO_mat.py to test the demonstration sample of fused tomography data on CoMnO nanoparticles.
 
 ### 4.2 HEA coated nanowire codes
-Folders: [2D_fusion](./2D_fusion) and [3D_fusion](./3D_fusion)
+Folder: [3D_fusion](./3D_fusion)
 
-### 4.3 Reconstructed 2D chemical distributions  
-Run source data/2D_fusion/Au_NW_new.py to obtain the reconstructed 2D chemical distributions at different projection angles.  
-Run source data/2D_fusion/output/h5_merge.py to merge the projections of the same element at different angles.
-
-### 4.4 reconstructed 3D chemical distributions  
-Run source data/3D_fusion/input/transposed.m to transpose and merge projections obtained from 4.2 for subsequent 3D multi-modal reconstruction and visualization.  
-
+### 4.3 reconstructed 3D chemical distributions  
 Run source data/3D_fusion/input/Fusion_3D_diff_angles.py to generate the output file fusion_recon.h5, which contains all the reconstructed 3D chemical distributions.  
-
-Run source data/3D_fusion/reconstruction_volumes/step1_Chem_total.m and 3D_fusion/reconstruction_volumes/step2_Mask.m files to apply a mask to the reconstructed 3D chemical distributions in fusion_recon.h5 and obtain the final chemical tomograms for different elements.
 
 ## 5. Learn More
 For more information about the source data, please visit:
