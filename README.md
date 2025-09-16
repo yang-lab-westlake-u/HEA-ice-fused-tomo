@@ -57,7 +57,7 @@ Run source data/_demo/Fusion_3D_diff_angles_CoMnO_mat.py to test the demonstrati
 Folder: [3D_fusion](./3D_fusion)
 
 ### 4.3 reconstructed 3D chemical distributions  
-Run source data/3D_fusion/input/Fusion_3D_diff_angles.py to generate the output file fusion_recon.h5, which contains all the reconstructed 3D chemical distributions.  
+Run source data/3D_fusion/Fusion_3D_diff_angles.py to generate the output file fusion_recon.h5, which contains all the reconstructed 3D chemical distributions.  
 
 ## 5. Learn More
 For more information about the source data, please visit:
